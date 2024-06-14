@@ -1,0 +1,4 @@
+inicinado la creacion del archivo.txt en el repositorio local
+git status
+
+cd..
